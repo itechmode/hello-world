@@ -8,4 +8,3 @@ First attempt to put something on GitHub
 #24years
 #Medical Student
 
-First attempt to change something in the GitHub plataform
